@@ -1,0 +1,14 @@
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.deps.json
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.runtimeconfig.json
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.dll
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.pdb
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfo.cs
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.dll
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.pdb
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\Casino.dll
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\bin\Debug\netcoreapp2.1\Casino.pdb
+C:\Users\wunde\source\repos\TwentyOne\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csproj.CopyComplete
