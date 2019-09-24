@@ -1,0 +1,1 @@
+This is a an insurance quote app that was written in C# with ASP.NET and Entity framework. It gives a quote based on logic and saves all of the users submitted information to a database and is all abscured from the user in a ViewModel.

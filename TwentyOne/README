@@ -1,0 +1,1 @@
+This is a twenty-one/black-jack style game made in C# and played as a console app. It was all the logic of a regualr twenty one game and does other things like logging the cards the player is dealt to a seperate file and advanced exceptoion handeling.
